@@ -12,7 +12,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/LcRGW7w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. From the Admin panel select the Manage tab, select SLA, and click on Add new SLA.
+1. From the Admin panel select the Manage tab, select SLA, and click on Add New SLA.
 </p>
 <br />
 
