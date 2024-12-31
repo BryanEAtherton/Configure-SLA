@@ -9,18 +9,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuring Teams Steps</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LcRGW7w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. ncjdnaf eilb jlvuiero vjladbviaelnfuirhnawjn
+1. From the Admin panel select the Manage tab, select SLA, and click on Add new SLA.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qbsEacD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. rao;naor;enfo;rfniow;fniwor;vneuipgnrj;egnjt;jsgfko;lmbiosr;hnaeiro;
+2. From the New SLA page we assign a name and set some basic information for the new SLA. 
 </p>
 <br />
 
