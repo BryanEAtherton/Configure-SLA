@@ -7,7 +7,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 # Configuring SLAs
 
-<h2>Configuring Teams Steps</h2>
+<h2>Configuring SLA Steps</h2>
 <p>
 <img src="https://i.imgur.com/LcRGW7w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
